@@ -18,9 +18,6 @@ Este es un formulario HTML básico de registro de usuario. Fue creado como parte
 
 Practicar la estructura básica de formularios en HTML y preparar la base para agregar estilos más adelante con CSS o frameworks como Bootstrap.
 
-## 📸 Captura de pantalla
-
-> *(Aquí puedes subir y enlazar una imagen de cómo se ve el formulario en funcionamiento)*
 
 ## 🛠️ Tecnologías usadas
 
@@ -31,8 +28,7 @@ Practicar la estructura básica de formularios en HTML y preparar la base para a
 ## ❤️ Autora
 
 Rommy Bejar  
-*Desarrolladora en formación, amante de lo estético y de la magia bien escrita.*
+*Desarrolladora en formación*
 
 ---
 
-¿Te gustaría que le agregue badges, un demo en Netlify/GitHub Pages o una sección de “Próximos pasos”? 😏✨
